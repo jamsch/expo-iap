@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexpo_iap_docs=self.webpackChunkexpo_iap_docs||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to Expo IAP Documentation","permalink":"/blog/welcome-to-expo-iap","unlisted":false,"date":"2025-06-01T00:00:00.000Z"}]}')}}]);
